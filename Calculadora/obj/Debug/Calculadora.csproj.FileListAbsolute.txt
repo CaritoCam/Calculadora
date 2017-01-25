@@ -1,0 +1,12 @@
+C:\Users\CaritoCam\Desktop\LSC\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\CaritoCam\Desktop\LSC\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\CaritoCam\Desktop\LSC\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\CaritoCam\Desktop\LSC\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\CaritoCam\Desktop\LSC\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\CaritoCam\Desktop\LSC\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\CaritoCam\Desktop\LSC\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\CaritoCam\Desktop\LSC\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\CaritoCam\Desktop\LSC\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\CaritoCam\Desktop\LSC\GitHub\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\CaritoCam\Desktop\LSC\GitHub\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\CaritoCam\Desktop\LSC\GitHub\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
